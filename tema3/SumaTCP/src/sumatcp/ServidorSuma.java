@@ -20,14 +20,13 @@ public class ServidorSuma {
 
     public static void main(String[] args) {
         int port = 5001; 
-    while (true)
-    {        
+       
         try {
             ServerSocket server = new ServerSocket(port);
             System.out.println("Se inicio el servidor");
             Socket client;
             PrintStream toClient;       
-            client = server.accept(); 
+            client = server.accept(); //conexion
             BufferedReader fromClient = new BufferedReader(new InputStreamReader(client.getInputStream())); // el lector
             System.out.println("Cliente se conecto");
             System.out.println(fromClient.readLine());
@@ -38,6 +37,6 @@ public class ServidorSuma {
             System.out.println(e.getMessage());
         }
 
-    }
+  
     }
 }
