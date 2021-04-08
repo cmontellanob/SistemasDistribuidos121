@@ -20,7 +20,8 @@ public class ServidorSuma {
 
     public static void main(String[] args) {
         int port = 5001; 
-       
+       while(true)
+       {           
         try {
             ServerSocket server = new ServerSocket(port);
             System.out.println("Se inicio el servidor");
@@ -37,6 +38,6 @@ public class ServidorSuma {
             System.out.println(e.getMessage());
         }
 
-  
+       }
     }
 }
