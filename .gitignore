@@ -30,3 +30,7 @@ hs_err_pid*
 /tema3/ServidorWeb/build/
 /tema3/SoquetsUDP/nbproject/private/
 /tema3/SoquetsUDP/build/
+/tema3/SoquetsTCPThreads/nbproject/private/
+/tema3/SoquetsTCPThreads/build/
+/tema4/OperacionesRMI/nbproject/private/
+/tema4/OperacionesRMI/build/
