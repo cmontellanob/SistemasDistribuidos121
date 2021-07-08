@@ -1,0 +1,10 @@
+D:\usfx\SIS-258 Sistemas Distribuidos\1-2021\SistemasDistribuidos121\SegundoParcial\ConsumirSEGIP\ConsumirSEGIP\bin\Debug\ConsumirSEGIP.exe.config
+D:\usfx\SIS-258 Sistemas Distribuidos\1-2021\SistemasDistribuidos121\SegundoParcial\ConsumirSEGIP\ConsumirSEGIP\bin\Debug\ConsumirSEGIP.exe
+D:\usfx\SIS-258 Sistemas Distribuidos\1-2021\SistemasDistribuidos121\SegundoParcial\ConsumirSEGIP\ConsumirSEGIP\bin\Debug\ConsumirSEGIP.pdb
+D:\usfx\SIS-258 Sistemas Distribuidos\1-2021\SistemasDistribuidos121\SegundoParcial\ConsumirSEGIP\ConsumirSEGIP\obj\Debug\ConsumirSEGIP.csprojAssemblyReference.cache
+D:\usfx\SIS-258 Sistemas Distribuidos\1-2021\SistemasDistribuidos121\SegundoParcial\ConsumirSEGIP\ConsumirSEGIP\obj\Debug\ConsumirSEGIP.Form1.resources
+D:\usfx\SIS-258 Sistemas Distribuidos\1-2021\SistemasDistribuidos121\SegundoParcial\ConsumirSEGIP\ConsumirSEGIP\obj\Debug\ConsumirSEGIP.Properties.Resources.resources
+D:\usfx\SIS-258 Sistemas Distribuidos\1-2021\SistemasDistribuidos121\SegundoParcial\ConsumirSEGIP\ConsumirSEGIP\obj\Debug\ConsumirSEGIP.csproj.GenerateResource.cache
+D:\usfx\SIS-258 Sistemas Distribuidos\1-2021\SistemasDistribuidos121\SegundoParcial\ConsumirSEGIP\ConsumirSEGIP\obj\Debug\ConsumirSEGIP.csproj.CoreCompileInputs.cache
+D:\usfx\SIS-258 Sistemas Distribuidos\1-2021\SistemasDistribuidos121\SegundoParcial\ConsumirSEGIP\ConsumirSEGIP\obj\Debug\ConsumirSEGIP.exe
+D:\usfx\SIS-258 Sistemas Distribuidos\1-2021\SistemasDistribuidos121\SegundoParcial\ConsumirSEGIP\ConsumirSEGIP\obj\Debug\ConsumirSEGIP.pdb
